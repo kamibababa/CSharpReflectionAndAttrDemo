@@ -1,0 +1,14 @@
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\bin\Debug\net8.0\ReflectionAndAttrDemo.exe
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\bin\Debug\net8.0\ReflectionAndAttrDemo.deps.json
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\bin\Debug\net8.0\ReflectionAndAttrDemo.runtimeconfig.json
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\bin\Debug\net8.0\ReflectionAndAttrDemo.dll
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\bin\Debug\net8.0\ReflectionAndAttrDemo.pdb
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.AssemblyInfoInputs.cache
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.AssemblyInfo.cs
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.csproj.CoreCompileInputs.cache
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.dll
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\refint\ReflectionAndAttrDemo.dll
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.pdb
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.genruntimeconfig.cache
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ref\ReflectionAndAttrDemo.dll
