@@ -12,3 +12,5 @@ D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Deb
 D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.pdb
 D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.genruntimeconfig.cache
 D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ref\ReflectionAndAttrDemo.dll
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\obj\Debug\net8.0\ReflectionAndAttrDemo.sourcelink.json
+D:\Users\songbo\source\repos\ReflectionAndAttrDemo\ReflectionAndAttrDemo\bin\Debug\net8.0\ioc_container\config.xml
