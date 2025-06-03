@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace ReflectionAndAttrDemo.ioc_container
 {
     using System;
+    using System.Reflection;
 
     class Program
     {
@@ -22,12 +23,14 @@ namespace ReflectionAndAttrDemo.ioc_container
             string loggerTypeName = ConfigReader.GetLoggerType("ioc_container/config.xml");
 
             // 根据配置替换容器里的注册映射
-            Type loggerType = loggerTypeName switch
-            {
-                "ConsoleLogger" => typeof(ConsoleLogger),
-                "FileLogger" => typeof(FileLogger),
-                _ => throw new Exception($"Unknown logger type {loggerTypeName}")
-            };
+            Type? loggerType = Assembly.GetExecutingAssembly()
+                .GetTypes().FirstOrDefault(x => x.Name == loggerTypeName);
+            //Type loggerType = loggerTypeName switch
+            //{
+            //    "ConsoleLogger" => typeof(ConsoleLogger),
+            //    "FileLogger" => typeof(FileLogger),
+            //    _ => throw new Exception($"Unknown logger type {loggerTypeName}")
+            //};
 
             // 重新注册 ILogger 到指定类型
             //container.Register<ILogger, ConsoleLogger>(); // 先移除或覆盖，简单示范，直接覆盖

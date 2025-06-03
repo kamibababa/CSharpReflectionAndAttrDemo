@@ -15,11 +15,11 @@ namespace ReflectionAndAttrDemo.ioc_container
     {
         private readonly Dictionary<Type, Type> _typeMap = new();
 
-        public void Register<TInterface>(Type implementationType)
+        public void Register<TInterface>(Type? implementationType)
         {
             var interfaceType = typeof(TInterface);
             if (!interfaceType.IsAssignableFrom(implementationType))
-                throw new ArgumentException($"{implementationType.Name} does not implement {interfaceType.Name}");
+                throw new ArgumentException($"{implementationType?.Name} does not implement {interfaceType.Name}");
 
             _typeMap[interfaceType] = implementationType;
         }
