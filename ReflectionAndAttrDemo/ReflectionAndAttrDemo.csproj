@@ -5,6 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>ReflectionAndAttrDemo.stepbystep.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,6 +20,10 @@
 
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="9.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="stepbystep\" />
   </ItemGroup>
 
 </Project>
